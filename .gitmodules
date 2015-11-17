@@ -112,3 +112,6 @@
 [submodule "linkclass"]
 	path = pelican-linkclass
 	url = https://github.com/rlaboiss/pelican-linkclass
+[submodule "pelican_dynamic"]
+	path = pelican_dynamic
+	url = https://github.com/wrobstory/pelican_dynamic.git
