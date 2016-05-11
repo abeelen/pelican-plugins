@@ -127,3 +127,6 @@
 [submodule "pelican-version"]
 	path = pelican-version
 	url = https://github.com/Shaked/pelican-version
+[submodule "pelican-bibtex"]
+	path = pelican-bibtex
+	url = https://github.com/abeelen/pelican-bibtex.git
