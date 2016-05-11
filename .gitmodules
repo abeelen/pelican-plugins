@@ -127,3 +127,6 @@
 [submodule "pelican-version"]
 	path = pelican-version
 	url = https://github.com/Shaked/pelican-version
+[submodule "pelican_dynamic"]
+	path = pelican_dynamic
+	url = https://github.com/wrobstory/pelican_dynamic.git
