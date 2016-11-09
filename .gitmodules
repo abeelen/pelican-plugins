@@ -115,3 +115,6 @@
 [submodule "pelican_dynamic"]
 	path = pelican_dynamic
 	url = https://github.com/wrobstory/pelican_dynamic.git
+[submodule "pelican-bibtex"]
+	path = pelican-bibtex
+	url = https://github.com/vene/pelican-bibtex.git
