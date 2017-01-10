@@ -112,6 +112,12 @@
 [submodule "linkclass"]
 	path = pelican-linkclass
 	url = https://github.com/rlaboiss/pelican-linkclass
+[submodule "pelican_dynamic"]
+	path = pelican_dynamic
+	url = https://github.com/wrobstory/pelican_dynamic.git
+[submodule "pelican-bibtex"]
+	path = pelican-bibtex
+	url = https://github.com/vene/pelican-bibtex.git
 [submodule "just_table"]
 	path = just_table
 	url = https://github.com/burakkose/just_table
